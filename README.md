@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 <div id="header" align="center">
-      <img src="src/image.png"/ width="400" height="400" >
+      <img src="src/image.png"/ width="350" height="350" alt="Infinite possibilities">
  </div>
 
 ## About me
@@ -15,7 +15,7 @@
                   "Foundational_models",
                   "Regression",
                   "Classification",
-                  "Clusterization",
+                  "Clustering",
                   "Forecasting"
               ],
               "LLM's_experience": "Llama2",
@@ -52,6 +52,5 @@
           "Currently working on": "Image Classification",
           "Currently learning": "Finetuning LLM's",
           "Fun fact": "I'm food engineer"
-
         }
 </div>
