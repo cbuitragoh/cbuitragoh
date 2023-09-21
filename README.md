@@ -48,7 +48,7 @@
               "image recognition projects",
               "scientific research in live sciences"
           ],
-          "How to reach me": "https://www.linkedin.com/in/carlos-armando-buitrago-huertas-a27b4063/",
+          "How to reach me": "<a href="https://www.linkedin.com/in/carlos-armando-buitrago-huertas-a27b4063">Carlos Buitrago on LinkedIn</a>",
           "Currently working on": "Image Classification",
           "Currently learning": "Finetuning LLM's",
           "Fun fact": "I'm food engineer"
