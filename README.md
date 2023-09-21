@@ -1,10 +1,9 @@
 ### Hello everyone 👋
 <div id="header" align="center">
-      <img src="src/image.png"/>
+      <img src="src/image.png"/ width="400" height="400" >
  </div>
 
 ## About me
-
 <div id="header" align="left">
     <pre>
         {
